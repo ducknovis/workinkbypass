@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         Bypass Script with YouTube UI
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Bypass script with YouTube video integration
-// @author       You
-// @match        *://*/*
-// @grant        none
-// ==/UserScript==
 
 (function() {
     'use strict';
